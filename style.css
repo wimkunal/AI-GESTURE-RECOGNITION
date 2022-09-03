@@ -1,0 +1,31 @@
+body {
+    background-image: linear-gradient(red,orange,yellow,lime,aqua,blue,purple,indigo);
+    height: 100%;
+    width: 100%;
+    color:white;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+}
+.note
+{
+    font-size: 15px;
+    color:white;
+}
+.copy_right_footer{
+    position: fixed;
+    color:white;
+    bottom:0;
+    width: 100%;
+    line-height: 10;
+    text-align: center;
+}
+canvas{
+   border:5px solid blue;
+   border-radius:20px;
+
+}
